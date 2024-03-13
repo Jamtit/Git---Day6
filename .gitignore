@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -27,3 +28,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+=======
+unwanted/*
+>>>>>>> f245572a6fdede0b634a284c3ea825d98dbb7feb
